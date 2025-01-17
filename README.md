@@ -2,7 +2,7 @@
 
 Welcome to the **ChatGPT Automation** project! This repository provides a Python script that automates interactions with ChatGPT using Selenium. You can automate sending prompts and retrieving responses, making it perfect for structuring and automating tasks like API calls without paying for any premium subscriptions. 
 
-[Watch the Demo Video 🎥](#demo-video)
+[Demo Video](#demo-video)
 
 For cookie handling, I used the **Cookie-Editor** browser extension to extract ChatGPT cookies and saved them in a file named `mycookie.json`.
 
@@ -76,7 +76,7 @@ Here’s a list of sample prompts used in the script:
 
 ---
 
-## Demo Video 🎥
+## Demo Video
 
 https://github.com/user-attachments/assets/601d12da-0446-42f9-96c6-2d51363090bc
 
