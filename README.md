@@ -51,7 +51,7 @@ python main.py
 1. **Load Cookies:** Log in to ChatGPT manually, export your cookies using the Cookie-Editor extension, and load them into the script for authenticated access.
 2. **Send Prompts:** A predefined list of prompts is sent to ChatGPT using Selenium.
 3. **Retrieve Responses:** The script waits for responses, extracts the content, and saves it to `.txt` files.
-4. **Automation Video:** Check out the [Demo Video](#watch-the-demo-video) to see it in action!
+4. **Automation Video:** Check out the [Watch the Demo Video 🎥](#watch-the-demo-video-) to see it in action!
 
 ---
 
