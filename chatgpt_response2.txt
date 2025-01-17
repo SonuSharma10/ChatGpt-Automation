@@ -1,0 +1,2 @@
+9.9 is greater than 9.11.
+This is because 9.9 is equivalent to 9.90, and 9.90 is greater than 9.11 when compared decimal place by

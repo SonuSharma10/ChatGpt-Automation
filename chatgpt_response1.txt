@@ -1,0 +1,15 @@
+a. UTXO Model of Bitcoin
+The UTXO (Unspent Transaction Output) model tracks coins as unspent outputs from transactions. Each transaction consumes existing UTXOs as inputs and creates new UTXOs as outputs. It ensures transaction integrity and avoids double-spending.
+b. Hot vs. Cold Wallets
+Hot Wallets: Connected to the internet, used for frequent transactions but more vulnerable to hacks.
+Cold Wallets: Offline storage, more secure, used for long-term storage.
+c. Mining Pool and Difficulty
+Mining Pool: A group of miners combining their computational power to solve blocks collectively and share rewards proportionally.
+Difficulty: Measures how hard it is to mine a block, adjusted based on the network's total hash power to maintain block generation time.
+d. Private vs. Public Blockchain
+Public Blockchain: Open to anyone, decentralized, and secure (e.g., Bitcoin, Ethereum).
+Private Blockchain: Restricted access, centralized, controlled by an organization (e.g., Hyperledger).
+e. Types of Ethereum Nodes
+Full Nodes: Store and validate the entire blockchain.
+Light Nodes: Download only essential data, rely on full nodes for verification.
+Archive Nodes: Store historical states of the blockchain for in-depth data access.
